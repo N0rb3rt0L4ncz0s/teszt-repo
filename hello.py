@@ -1,0 +1,1 @@
+print("Szia Norbi, ez az első commitom.")
